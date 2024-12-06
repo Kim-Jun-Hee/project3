@@ -2,7 +2,7 @@
 
 ### 프로젝트 발표 자료
 - 프로젝트의 전체 내용은 아래 PDF 파일에서 확인할 수 있습니다.<br>
-[<img src="portfolio4.png" width="387px" alt="파이썬 데이터 분석 포트폴리오">](파이썬포트폴리오.pdf)</br>
+[<img src="portfolio3.png" width="387px" alt="세종시 공모전 Project">](세종시공모전포트폴리오.pdf)</br>
   👉 [발표 자료 다운로드](https://github.com/Kim-Jun-Hee/project4/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 <br></br>
 ### 📂 프로젝트 소개 및 목적
