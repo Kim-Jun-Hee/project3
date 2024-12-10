@@ -45,8 +45,8 @@
 </div>
 
 ### 홈페이지 링크
-[세종 홈페이지 링크](https://sejong-rb82yem7epu6bcxlpewgfk.streamlit.app)
-**주의사항**: 바로 열리지 않을 경우, 새로고침을 하시면 접속이 가능합니다.
+[세종 홈페이지 링크](https://sejong-rb82yem7epu6bcxlpewgfk.streamlit.app)<br>
+**주의사항**: 바로 열리지 않을 경우, 새로고침을 하시면 접속이 가능합니다.</br>
 
 ### 🏆 주요 결과물
 <table>
