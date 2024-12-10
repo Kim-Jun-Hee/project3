@@ -1,4 +1,6 @@
 # 🌟 세종시 공모전 Project : 세종엔에서 만나는 AI와 빅데이터를 활용한 개인 맞춤형 병원 · 음식점 추천 시스템
+## 세종시 공모전
+<img src="sejong.png" alt="Image Description" width="200"/>
 
 ### 프로젝트 발표 자료
 - 프로젝트의 전체 내용은 아래 PDF 파일에서 확인할 수 있습니다.<br>
@@ -12,7 +14,7 @@
 ### 📂 프로젝트 목표
 - 세종시 스마트도시 발전을 위한 '세종엔' 탐색 및 개선 방안 도출
 - 아픈 부위를 입력하면 병원을 추천하는 AI 챗봇 제작
-- 사용자 취향에 맞는 음식점을 추천하는 웹 플랫폼 개발
+- 사용자 취향에 맞는 음식점을 추천하는 시스템 개발
 <br></br>
 
 ### 📅 프로젝트 기간
@@ -43,27 +45,39 @@
 ### 🏆 주요 결과물
 <table>
   <tr>
-    <td align="center">🌟 코로나 유무에 따른 유아용품 물류량의 상관관계</td>
-    <td align="center">🌟 영유아 수 및 혼인 건수 와 유아용품 물류량과의 다중 회귀분석</td>
+    <td align="center">🌟 '세종엔' 앱의 개선 사항 분석 및 도출</td>
+    <td align="center">🌟 음식 선호도 조사</td>
   </tr>
   <tr>
     <td>
-      <img src="corr.png" alt="상관관계" width="500">
+      <img src="app.png" alt="세종엔" width="500">
     </td>
     <td>
-      <img src="return.png" alt="다중 회귀분석" width="500">
+      <img src="prefer.png" alt="선호도" width="500">
     </td>
   </tr>
   <tr>
-    <td align="center">🌟 명절과 물류량의 관계</td>
-    <td align="center">🌟 오배송 발생 현황 파악</td>
+    <td align="center">🌟 병원 추천 챗봇 구현</td>
+    <td align="center">🌟 병원 추천 챗봇 앱 적용 예상 화면</td>
   </tr>
   <tr>
     <td>
-      <img src="holiday.png" alt="명절" width="500">
+      <img src="hospital1.png" alt="병원" width="500">
     </td>
     <td>
-      <img src="error.png" alt="오배송" width="500">
+      <img src="hospital2.png" alt="병원" width="500">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🌟 음식점 추천 시스템 구현</td>
+    <td align="center">🌟 음식점 추천 시스템 앱 적용 예상 화면</td>
+  </tr>
+  <tr>
+    <td>
+      <img src="food1.png" alt="음식점" width="500">
+    </td>
+    <td>
+      <img src="food2.png" alt="음식점" width="500">
     </td>
   </tr>
 </table>
