@@ -43,17 +43,18 @@
   <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="45">
 </div>
+<br></br>
 
 ## 🌐 세종 홈페이지 링크
+---
 
 [🔗 **세종 홈페이지 바로가기**](https://sejong-rb82yem7epu6bcxlpewgfk.streamlit.app)
-
----
 
 ⚠️ **주의사항**  
 바로 열리지 않을 경우, **새로고침**을 몇 번 시도하면 정상적으로 접속됩니다.
 
 ---
+<br></br>
 
 ### 🏆 주요 결과물
 <table>
