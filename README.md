@@ -10,19 +10,19 @@
 <br></br>
 
 ### 📂 프로젝트 목표
-- 출산율 및 영유아 수와 유아용품 물류량과의 관계 분석
-- 명절 기간에 급증하는 택배 수요를 정량화하여 물류 관리 및 운영의 최적화를 도모
-- 오배송 발생 현황 분석 및 오배송 감소 방안 모색
+- 세종시 스마트도시 발전을 위한 '세종엔' 탐색 및 개선 방안 도출
+- 아픈 부위를 입력하면 병원을 추천하는 AI 챗봇 제작
+- 사용자 취향에 맞는 음식점을 추천하는 웹 플랫폼 개발
 <br></br>
 
 ### 📅 프로젝트 기간
-- 2024.05.20 ~ 2024.06.05
+- 2024.09.02 ~ 2024.09.30
 <br></br>
 
 ### 프로젝트 인원 및 역할
-- 총인원: 2명
-- 개인 작업: 발표 준비
-- 공동 작업:
+- 총인원: 4명
+- 개인 작업: 병원 및 음식점 크롤링 데이터 전처리,병원 추천 챗봇 제작,음식점 및 병원 홈페이지 통합
+- 공동 작업: ppt제작
 <br></br>
 
 ### 사용된 기술 및 도구
@@ -33,9 +33,9 @@
 #### 🛠️ 도구 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
-  <img src="oracle.png" alt="Oracle Logo" width="100" style="display: block;">
-  <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
-  <img src="RStudio.png" alt="RStudio Logo" width="100">
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook Logo" width="45" style="display: block;">
+  <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="5"/>
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" width="45">
 </div>
 
 
