@@ -1,6 +1,6 @@
 # 🌟 세종시 공모전 Project : 세종엔에서 만나는 AI와 빅데이터를 활용한 개인 맞춤형 병원 · 음식점 추천 시스템
 
-<img src="sejong.png" alt="Image Description" width="200"/>
+<img src="sejong.png" alt="Image Description" width="300"/>
 
 ### 프로젝트 발표 자료
 - 프로젝트의 전체 내용은 아래 PDF 파일에서 확인할 수 있습니다.<br>
