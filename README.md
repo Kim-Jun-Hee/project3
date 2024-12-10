@@ -39,9 +39,9 @@
   <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" width="45">
   <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="12"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit Logo" width="45" style="display: block;"> streamlit
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit Logo" width="45" style="display: block;">
   <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="45"> github
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="45">
 </div>
 
 
