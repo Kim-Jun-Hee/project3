@@ -31,11 +31,6 @@
 
 #### 💻 주요 기술
 <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/><img src="python-logo.png" alt="SQL" width="40"/> **python**(streamlit,Pillow,datetime..)
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit Logo" width="45" style="display: block;"> **streamlit**
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="45"> **github**
-
 
 #### 🛠️ 도구 
 <div style="display: flex; align-items: center; gap: 20px;">
@@ -45,6 +40,10 @@
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" width="45">
 </div>
 
+<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit Logo" width="45" style="display: block;"> **streamlit**
+<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="45"> **github**
 
 
 ### 🏆 주요 결과물
