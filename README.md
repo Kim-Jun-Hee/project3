@@ -45,7 +45,7 @@
 </div>
 <br></br>
 
-## 🌐 세종 홈페이지 링크
+### 🌐 세종 홈페이지 링크
 ---
 
 [🔗 **세종 홈페이지 바로가기**](https://sejong-rb82yem7epu6bcxlpewgfk.streamlit.app)
