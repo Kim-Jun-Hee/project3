@@ -30,7 +30,7 @@
 ### 사용된 기술 및 도구
 
 #### 💻 주요 기술
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/><img src="python-logo.png" alt="SQL" width="40"/> **python**
+<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/><img src="python-logo.png" alt="SQL" width="40"/> **python**(streamlit,Pillow,datetime)
 
 #### 🛠️ 도구 
 <div style="display: flex; align-items: center; gap: 20px;">
